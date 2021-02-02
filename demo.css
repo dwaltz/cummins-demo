@@ -1,0 +1,16 @@
+document, body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 1400px;
+    position: relative;
+    display: block;
+    margin: auto auto;
+}
+
+#background-image {
+    width: 100%;
+}
