@@ -82,5 +82,4 @@ function loadBridge() {
 
 window.onload = () => {
     document.querySelector('#dropdownMenuButton').innerHTML = localStorage.getItem('display_email') || 'john_doe@gmail.com';
-    console.log('test');
 };
